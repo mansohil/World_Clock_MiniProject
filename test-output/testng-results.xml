@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-02T17:28:39 IST" name="Default suite" finished-at="2022-12-02T17:29:56 IST" duration-ms="76453">
+    <groups>
+    </groups>
+    <test started-at="2022-12-02T17:28:39 IST" name="Default test" finished-at="2022-12-02T17:29:56 IST" duration-ms="76453">
+      <class name="testclass.RunTest">
+        <test-method is-config="true" signature="openBrowserAndLogin()[pri:0, instance:testclass.RunTest@36676c1a]" started-at="2022-12-02T17:28:39 IST" name="openBrowserAndLogin" finished-at="2022-12-02T17:29:48 IST" duration-ms="69077" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowserAndLogin -->
+        <test-method signature="testWorldClock()[pri:0, instance:testclass.RunTest@36676c1a]" started-at="2022-12-02T17:29:49 IST" name="testWorldClock" finished-at="2022-12-02T17:29:54 IST" duration-ms="5961" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWorldClock -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testclass.RunTest@36676c1a]" started-at="2022-12-02T17:29:54 IST" name="teardown" finished-at="2022-12-02T17:29:56 IST" duration-ms="1347" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testclass.RunTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
